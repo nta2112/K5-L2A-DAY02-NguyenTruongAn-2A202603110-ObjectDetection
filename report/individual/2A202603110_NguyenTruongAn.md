@@ -8,7 +8,7 @@
 - MSSV: 2A202603110
 - Email: 26ai.annt5@vinuni.edu.vn
 - Lớp: L2A
-- Link repo bài làm: https://github.com/nta2112/K5-L2-DAY02-NguyenTruongAn-2A202603110-ObjectDetection
+- Link repo bài làm: https://github.com/nta2112/K5-L2A-DAY02-NguyenTruongAn-2A202603110-ObjectDetection
 - Link Colab đã chạy: https://colab.research.google.com/drive/14OHA4azQZ34pULmECqWt0XkJnLErPeZ7?usp=sharing
 
 ## 2. Schema và mini guideline
